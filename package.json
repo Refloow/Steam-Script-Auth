@@ -1,7 +1,7 @@
 {
   "name": "steam-script-auth",
   "version": "1.0.0",
-  "description": "Steam Desktop Authenticator in a script format allowing SDA accounts that have maFile secret codes to either confirm all or decline all trade offers on run",
+  "description": "Steam Desktop Authenticator in a script format allowing SDA accounts that have maFile secret codes to either confirm all pending confirmation trade offers on run",
   "main": "index.js",
   "bugs": {
     "url": "https://github.com/Refloow/Steam-Script-Auth/issues"
