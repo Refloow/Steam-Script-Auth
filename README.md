@@ -68,7 +68,7 @@ Project is made open source and **free for all.**<br>
 
 # How to setup
 
-> **[Setup-Guide](https://github.com/Refloow/Steam-Script-Auth#how-to-setup)**<br>
+> **[Setup-Guide](https://github.com/Refloow/Steam-Script-Auth/wiki)**<br>
 
 # DISCORD Support Server
 
