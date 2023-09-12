@@ -3,7 +3,7 @@
 
 
 ### `Read this page before asking any questions`
-> **[Setup-Guide](https://github.com/OSL-Works/Steam-Card-Bot-PRO#setup-guide)**<br>
+> **[Setup-Guide](https://github.com/Refloow/Steam-Script-Auth#setup-guide)**<br>
 
 <p align="center">
 <img width="264.6" height="154" src="https://i.imgur.com/PUCBfA6.png">
