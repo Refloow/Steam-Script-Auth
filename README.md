@@ -4,6 +4,7 @@
 
 ### `Read this page before asking any questions`
 > **[Setup-Guide](https://github.com/Refloow/Steam-Script-Auth#how-to-setup)**<br>
+> **[Join our DISCORD](discord.gg/4enDY8yhuS)**<br>
 
 <p align="center">
 <img width="264.6" height="154" src="https://i.imgur.com/PUCBfA6.png">
