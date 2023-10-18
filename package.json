@@ -1,6 +1,6 @@
 {
   "name": "steam-script-auth",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Steam Desktop Authenticator in a script format allowing SDA accounts that have maFile secret codes to confirm all pending confirmation trade offers on run built by @Refloow",
   "main": "index.js",
   "bugs": {
