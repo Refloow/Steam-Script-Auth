@@ -92,7 +92,7 @@ try {
       );                             
     console.log('        This software has been developed by Veljko Vuckovic at - Refloow and published for free at GitHub.org'.cyan);
     console.log('                           Code origin: https://github.com/Refloow/Steam-Script-Auth' .yellow);
-    console.log('                        Original work: Copyright (c) 2023 Refloow All rights reserved. ' .green);
+    console.log('                        Original work: Copyright (c) 2023-2024 (Refloow.com) All rights reserved. ' .green);
     console.log('      Official version of the software is FREE discord server for support: https://discord.gg/XZtwJ4WW6T');
       console.log(
         "                               ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\n".red);
