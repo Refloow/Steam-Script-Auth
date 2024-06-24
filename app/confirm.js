@@ -1,7 +1,7 @@
 // Copyright notice:
 
 /*--------------------------------------------------------------------------------------------- 
-* Original work: Copyright (c) 2023 Veljko Vuckovic @Refloow.com All rights reserved.
+* Original work: Copyright (c) 2023-2024 Veljko Vuckovic @Refloow.com All rights reserved.
 
 * Code origin: /
 * Developer name: Veljko Vuckovic
