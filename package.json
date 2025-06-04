@@ -12,10 +12,10 @@
   },
   "dependencies": {
     "colors": "1.4.0",
-    "steam-totp": "^2.1.2",
-    "steam-tradeoffer-manager": "^2.11.4",
-    "steam-user": "5.0.4",
-    "steamcommunity": "^3.48.0"
+    "steam-totp": "2.1.2",
+    "steam-tradeoffer-manager": "2.12.1",
+    "steam-user": "5.2.3",
+    "steamcommunity": "3.48.8",
   },
   "keywords": [
     "Steam",
