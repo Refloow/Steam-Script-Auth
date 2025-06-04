@@ -12,7 +12,7 @@ echo .
 echo .
 echo // Copyright notice:
 echo .
-echo /* Original work: Copyright (c) 2023 Veljko Vuckovic @Refloow.com All rights reserved.
+echo /* Original work: Copyright (c) 2023-2025 Veljko Vuckovic @Refloow.com All rights reserved.
 echo  */
 echo .
 echo .
