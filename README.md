@@ -90,7 +90,7 @@ Project is made open source and **free for all.**<br>
 
 If you have some private requests feel free to contact main dev : https://steamcommunity.com/id/MajokingGames/<br>
 **Note that we wont add any platform breaking TOS Modifications to any of our existing or requested projects**
-
+ 
 <hr>
 
 # Stars over time 
