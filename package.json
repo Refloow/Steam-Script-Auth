@@ -1,10 +1,31 @@
 {
   "name": "steam-script-auth",
   "version": "1.0.3",
-  "description": "Steam Desktop Authenticator in a script format allowing SDA accounts that have maFile secret codes to confirm all pending confirmation trade offers on run built by @Refloow",
+  "description": "Refloow™ Steam Script Auth - Steam Desktop Authenticator in a script format allowing SDA accounts that have maFile secret codes to confirm all pending confirmation trade offers on run",
   "main": "index.js",
   "bugs": {
     "url": "https://github.com/Refloow/Steam-Script-Auth/issues"
+  },
+  "private": true,
+  "author": {
+    "name": "Refloow",
+    "email": "legal@refloow.com",
+    "url": "https://refloow.com"
+  },
+  "contributors": [
+    {
+      "name": "Veljko Vuckovic",
+      "url": "https://github.com/Refloow"
+    }
+  ],
+  "funding": {
+    "type": "individual",
+    "url": "https://refloow.com"
+  },
+  "homepage": "https://refloow.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Refloow/Steam-Script-Auth.git"
   },
   "homepage": "https://github.com/Refloow/Steam-Script-Auth",
   "scripts": {
@@ -26,6 +47,5 @@
     "accept",
     "tradeoffers"
   ],
-  "author": "Veljko Vuckovic (Refloow.com)",
   "license": "MIT"
 }
