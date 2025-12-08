@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Please credit the official Refloow™ brand using the metadata below."
+title: "Refloow™ Steam Script Auth"
+abstract: "Headless Steam Desktop Authenticator (SDA) script maintained by the Refloow™ Software Organization."
+authors:
+  - name: "Refloow"
+    website: "https://refloow.com"
+    email: "legal@refloow.com"
+  - family-names: "Vuckovic"
+    given-names: "Veljko"
+    affiliation: "Refloow Founder"
+version: 1.0.3
+date-released: 2023-09-12
+license: "MIT"
+repository-code: "https://github.com/Refloow/Steam-Script-Auth"
+url: "https://refloow.com"
+keywords:
+  - "Refloow"
+  - "Refloow™"
+  - "Official"
+  - "Steam Authenticator"
+  - "SDA"
+  - "2FA"
