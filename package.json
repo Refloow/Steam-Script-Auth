@@ -1,6 +1,6 @@
 {
   "name": "steam-script-auth",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Refloow™ Steam Script Auth - Steam Desktop Authenticator in a script format allowing SDA accounts that have maFile secret codes to confirm all pending confirmation trade offers on run",
   "main": "index.js",
   "bugs": {
@@ -34,9 +34,9 @@
   "dependencies": {
     "colors": "1.4.0",
     "steam-totp": "2.1.2",
-    "steam-tradeoffer-manager": "2.12.1",
+    "steam-tradeoffer-manager": "2.13.0",
     "steam-user": "5.2.3",
-    "steamcommunity": "3.48.8"
+    "steamcommunity": "3.50.3"
   },
   "keywords": [
     "Steam",
