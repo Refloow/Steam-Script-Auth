@@ -93,7 +93,3 @@ If you have some private requests feel free to contact main dev : https://steamc
  
 <hr>
 
-# Stars over time 
-
-[![Stargazers over time](https://starchart.cc/Refloow/Steam-Script-Auth.svg)](https://starchart.cc/Refloow/Steam-Script-Auth)
-
