@@ -165,14 +165,34 @@ let CONFIG = require("../!authenticator/SETTINGS/config.js")
 // Defining name of the client variable for SteamUser which is a library module thats imported
 // Defining name of the manager variable for TradeOfferManager which is a library module thats imported
 // Defining name of the community variable for SteamCommunity which is a library module thats imported
+// Setting client
+
 let refloow = new SteamUser(),
-manager = new TradeOfferManager({
+    community = new SteamCommunity();
+
+community.request = community.request.defaults({
+    headers: {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+        "Accept-Encoding": "gzip, deflate, br, zstd",
+        "Accept-Language": "en-US,en;q=0.9",
+        "sec-ch-ua": '"Chromium";v="140", "Not=A?Brand";v="24", "Google Chrome";v="140"',
+        "sec-ch-ua-mobile": "?1",
+        "sec-ch-ua-platform": '"Android"',
+        "sec-fetch-dest": "document",
+        "sec-fetch-mode": "navigate",
+        "sec-fetch-site": "same-origin",
+        "sec-fetch-user": "?1",
+        "upgrade-insecure-requests": "1"
+    }
+});
+
+let manager = new TradeOfferManager({
     "steam": refloow,
+    "community": community,
     "language": "en",
     "pollInterval": "10000",
     "cancelTime": "7200000" // 2 hours in ms
-}),
-community = new SteamCommunity();
+});
 
 
 // This is rest of the code wrapped in a function which is done to ensure its not run before the timer of 15 sec to ensure the login code exists
